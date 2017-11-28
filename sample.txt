@@ -1,1 +1,2 @@
 Welcome to Techo2Git Repository
+added some text in the new repo Techo2Git2
